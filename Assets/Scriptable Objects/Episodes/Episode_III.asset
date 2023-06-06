@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5960927e24a09bc4c8351b5c94242912, type: 3}
+  m_Name: Episode_III
+  m_EditorClassIdentifier: 
+  m_EpisodeName: 'Episode III: We Are Not Alone'
+  m_Levels:
+  - scene_main
+  - scene_episode_03_level_01
+  - scene_episode_03_level_02
+  - scene_episode_03_level_03
+  m_PreviewImage: {fileID: 0}

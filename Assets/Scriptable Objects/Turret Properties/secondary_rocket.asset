@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7266d79a96eff4418c49724a92e57cc, type: 3}
+  m_Name: secondary_rocket
+  m_EditorClassIdentifier: 
+  m_Mode: 1
+  m_ProjectilePrefab: {fileID: 8880354516505881581, guid: 520e511a735192145afe409847eb3c70,
+    type: 3}
+  m_RateOfFire: 2
+  m_EnergyUsage: 0
+  m_AmmoUsage: 1
+  m_Homing: 1
+  m_LaunchSFX: {fileID: 8300000, guid: 166ea230c57635e4da3bbbc011ad534a, type: 3}
